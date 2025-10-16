@@ -19,4 +19,4 @@ It then performs basic analysis and visualization to explore the outputs — suc
 - **Jupyter Notebook** for iterative development
 
 ## Purpose
-This project was meant as a hands-on exercise in **logging**, **data tracking**, and **output analysis** — not to produce accurate models or deep insights.
+This project was meant as a hands-on exercise in **logging**, **data tracking**, and **output analysis** — not to produce the most sophisticated model ever. I also wanted to kick off some of the rust my Python skills have developed.
